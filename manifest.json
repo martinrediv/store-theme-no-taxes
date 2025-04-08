@@ -1,7 +1,9 @@
 {
-  "vendor": "vtex",
-  "name": "store-theme",
+  "vendor": "ecomsultores",
+  "name": "store-theme-no-taxes",
   "version": "5.2.0",
+  "title": "Store Theme sin impuestos nacionales",
+  "description": "Custom store theme con precios sin impuestos nacionales",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
