@@ -1,7 +1,7 @@
 {
   "vendor": "ecomsultores",
   "name": "store-theme-no-taxes",
-  "version": "5.2.0",
+  "version": "0.0.1",
   "title": "Store Theme sin impuestos nacionales",
   "description": "Custom store theme con precios sin impuestos nacionales",
   "builders": {
